@@ -1,0 +1,15 @@
+.category_list {
+    display: inline-block;
+    box-shadow: 0px 0px 10px -2px #888888 !important;
+    margin: 30px !important;
+    vertical-align: top;
+}
+.category_list a{
+  text-decoration:none !important;
+}
+.title_cat{
+  padding: 10px 15px;
+}
+.category_list_sub{
+  padding: 0px 18px;
+}
